@@ -1,4 +1,5 @@
 .DS_Store
+.ipynb_checkpoints/
 animelist/predictions
 goodbooks-10k/predictions
 ml-1m/predictions
